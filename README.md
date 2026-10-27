@@ -1,3 +1,3 @@
 # devops-capstone-project
 
-## This is the capstone project (IBM - SE & DevOps).
+## This is the devops capstone project (IBM - SE & DevOps).
